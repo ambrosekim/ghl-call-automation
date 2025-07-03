@@ -208,3 +208,6 @@ __marimo__/
 
 # ignore json files
 *.json
+
+# ignore wav files
+*.wav
